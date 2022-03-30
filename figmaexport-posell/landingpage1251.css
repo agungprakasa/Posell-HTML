@@ -1,0 +1,1355 @@
+.landingpage1251-container {
+  min-height: 100vh;
+}
+.landingpage1251-landingpage1251 {
+  width: 1440px;
+  height: 3218px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.landingpage1251-maskgroup1973 {
+  top: 80px;
+  left: 0px;
+  width: 1443px;
+  height: 700px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.landingpage1251-image {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 810px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.landingpage1251-text {
+  top: 272px;
+  left: 123px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 46px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Cambo;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text01 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text05 {
+  top: 396px;
+  left: 123px;
+  color: rgba(255, 255, 255, 1);
+  width: 736px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text06 {
+  color: rgba(255, 255, 255, 1);
+  width: 736px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-group12079 {
+  top: 538px;
+  left: 123px;
+  width: 214px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.landingpage1251-image01 {
+  top: 0px;
+  left: 0px;
+  width: 214px;
+  height: 50px;
+  position: absolute;
+  object-fit: cover;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.landingpage1251-text07 {
+  top: 10px;
+  left: 57px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text08 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-navbar20231 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.landingpage1251-image02 {
+  top: 25px;
+  left: 1292px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.landingpage1251-text09 {
+  top: 18px;
+  left: 123px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text10 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text11 {
+  top: 25px;
+  left: 564px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 300px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text12 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 300px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text13 {
+  top: 25px;
+  left: 420px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 300px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text14 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 300px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text15 {
+  top: 25px;
+  left: 271px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 300px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text16 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 300px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text17 {
+  top: 820px;
+  left: 118px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text18 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-group220162 {
+  top: 882px;
+  left: 118px;
+  width: 286px;
+  height: 370px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.landingpage1251-text19 {
+  top: 302px;
+  left: 4px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text20 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text21 {
+  top: 329px;
+  left: 4px;
+  color: rgba(182, 182, 182, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text22 {
+  color: rgba(182, 182, 182, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-maskgroup20178 {
+  top: 0px;
+  left: 0px;
+  width: 286px;
+  height: 286px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.landingpage1251-image03 {
+  top: -1px;
+  left: -72px;
+  width: 430px;
+  height: 287px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.landingpage1251-group320163 {
+  top: 882px;
+  left: 424px;
+  width: 286px;
+  height: 370px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.landingpage1251-text23 {
+  top: 302px;
+  left: 4px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text24 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text25 {
+  top: 329px;
+  left: 4px;
+  color: rgba(182, 182, 182, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text26 {
+  color: rgba(182, 182, 182, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-maskgroup20180 {
+  top: 0px;
+  left: 0px;
+  width: 286px;
+  height: 286px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.landingpage1251-image04 {
+  top: 0px;
+  left: -18px;
+  width: 322px;
+  height: 286px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.landingpage1251-group420168 {
+  top: 882px;
+  left: 730px;
+  width: 286px;
+  height: 370px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.landingpage1251-text27 {
+  top: 302px;
+  left: 4px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text28 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text29 {
+  top: 329px;
+  left: 4px;
+  color: rgba(182, 182, 182, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text30 {
+  color: rgba(182, 182, 182, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-maskgroup20182 {
+  top: 0px;
+  left: 0px;
+  width: 286px;
+  height: 286px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.landingpage1251-image05 {
+  top: -34px;
+  left: 5px;
+  width: 281px;
+  height: 411px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.landingpage1251-group520173 {
+  top: 882px;
+  left: 1036px;
+  width: 286px;
+  height: 370px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.landingpage1251-text31 {
+  top: 302px;
+  left: 4px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text32 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text33 {
+  top: 329px;
+  left: 4px;
+  color: rgba(182, 182, 182, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text34 {
+  color: rgba(182, 182, 182, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-maskgroup20184 {
+  top: 0px;
+  left: 0px;
+  width: 286px;
+  height: 286px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.landingpage1251-image06 {
+  top: 0px;
+  left: 4px;
+  width: 286px;
+  height: 286px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.landingpage1251-text35 {
+  top: 1338px;
+  left: 832px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text36 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text37 {
+  top: 1385px;
+  left: 832px;
+  color: rgba(88, 88, 88, 1);
+  width: 492px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text38 {
+  color: rgba(88, 88, 88, 1);
+  width: 492px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-image07 {
+  top: 1292px;
+  left: 118px;
+  width: 694px;
+  height: 280px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(196, 196, 196, 1);
+}
+.landingpage1251-group6277 {
+  top: 1486px;
+  left: 832px;
+  width: 140px;
+  height: 39px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.landingpage1251-image08 {
+  top: 0px;
+  left: 0px;
+  width: 140px;
+  height: 39px;
+  position: absolute;
+  object-fit: cover;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.landingpage1251-text39 {
+  top: 8px;
+  left: 30px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 300px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text40 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 300px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text41 {
+  top: 1338px;
+  left: 832px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text42 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text43 {
+  top: 1385px;
+  left: 832px;
+  color: rgba(88, 88, 88, 1);
+  width: 492px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text44 {
+  color: rgba(88, 88, 88, 1);
+  width: 492px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-group82725 {
+  top: 1486px;
+  left: 832px;
+  width: 140px;
+  height: 39px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.landingpage1251-image09 {
+  top: 0px;
+  left: 0px;
+  width: 140px;
+  height: 39px;
+  position: absolute;
+  object-fit: cover;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.landingpage1251-text45 {
+  top: 8px;
+  left: 30px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 300px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text46 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 300px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text47 {
+  top: 1681px;
+  left: 492px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  align-self: auto;
+  font-style: normal;
+  text-align: right;
+  font-family: Poppins;
+  font-weight: 500px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text48 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: right;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text49 {
+  top: 1728px;
+  left: 111px;
+  color: rgba(88, 88, 88, 1);
+  width: 492px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: right;
+  font-family: Poppins;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text50 {
+  color: rgba(88, 88, 88, 1);
+  width: 492px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: right;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-group72719 {
+  top: 1829px;
+  left: 468px;
+  width: 140px;
+  height: 39px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.landingpage1251-image10 {
+  top: 0px;
+  left: 0px;
+  width: 140px;
+  height: 39px;
+  position: absolute;
+  object-fit: cover;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.landingpage1251-text51 {
+  top: 8px;
+  left: 30px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 300px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text52 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 300px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text53 {
+  top: 2369px;
+  left: 459px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  align-self: auto;
+  font-style: normal;
+  text-align: right;
+  font-family: Poppins;
+  font-weight: 500px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text54 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: right;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text55 {
+  top: 2416px;
+  left: 111px;
+  color: rgba(88, 88, 88, 1);
+  width: 492px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: right;
+  font-family: Poppins;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text56 {
+  color: rgba(88, 88, 88, 1);
+  width: 492px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: right;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-group102737 {
+  top: 2517px;
+  left: 468px;
+  width: 140px;
+  height: 39px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.landingpage1251-image11 {
+  top: 0px;
+  left: 0px;
+  width: 140px;
+  height: 39px;
+  position: absolute;
+  object-fit: cover;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.landingpage1251-text57 {
+  top: 8px;
+  left: 30px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 300px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text58 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 300px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text59 {
+  top: 2026px;
+  left: 832px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text60 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text61 {
+  top: 2073px;
+  left: 832px;
+  color: rgba(88, 88, 88, 1);
+  width: 492px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text62 {
+  color: rgba(88, 88, 88, 1);
+  width: 492px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-group92731 {
+  top: 2174px;
+  left: 832px;
+  width: 140px;
+  height: 39px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.landingpage1251-image12 {
+  top: 0px;
+  left: 0px;
+  width: 140px;
+  height: 39px;
+  position: absolute;
+  object-fit: cover;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.landingpage1251-text63 {
+  top: 8px;
+  left: 30px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 300px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text64 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 300px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-maskgroup2745 {
+  top: 1980px;
+  left: 118px;
+  width: 694px;
+  height: 280px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.landingpage1251-image13 {
+  top: -55px;
+  left: -25px;
+  width: 694px;
+  height: 390px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.landingpage1251-maskgroup2747 {
+  top: 2324px;
+  left: 628px;
+  width: 694px;
+  height: 280px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.landingpage1251-image14 {
+  top: -55px;
+  left: 11px;
+  width: 696px;
+  height: 464px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.landingpage1251-maskgroup2741 {
+  top: 1292px;
+  left: 118px;
+  width: 694px;
+  height: 280px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.landingpage1251-image15 {
+  top: 0px;
+  left: 0px;
+  width: 694px;
+  height: 463px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.landingpage1251-maskgroup2743 {
+  top: 1636px;
+  left: 628px;
+  width: 694px;
+  height: 280px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.landingpage1251-image16 {
+  top: -91px;
+  left: 0px;
+  width: 694px;
+  height: 462px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.landingpage1251-image17 {
+  top: 2688px;
+  left: -8px;
+  width: 1440px;
+  height: 530px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(245, 244, 242, 1);
+}
+.landingpage1251-text65 {
+  top: 2865px;
+  left: 800px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 21px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text66 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text67 {
+  top: 3014px;
+  left: 800px;
+  color: rgba(164, 164, 164, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text68 {
+  color: rgba(164, 164, 164, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text69 {
+  top: 2921px;
+  left: 800px;
+  color: rgba(0, 0, 0, 1);
+  width: 569px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500px;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-text70 {
+  color: rgba(0, 0, 0, 1);
+  width: 569px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landingpage1251-maskgroup2783 {
+  top: 2688px;
+  left: 0px;
+  width: 720px;
+  height: 530px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.landingpage1251-image18 {
+  top: -144px;
+  left: 0px;
+  width: 717px;
+  height: 717px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
